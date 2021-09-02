@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cloud", "cloud\cloud.vcxproj", "{E83C188D-61F5-4AE6-839C-26E4ECB36E62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E83C188D-61F5-4AE6-839C-26E4ECB36E62}.Debug|x64.ActiveCfg = Debug|x64
+		{E83C188D-61F5-4AE6-839C-26E4ECB36E62}.Debug|x64.Build.0 = Debug|x64
+		{E83C188D-61F5-4AE6-839C-26E4ECB36E62}.Debug|x86.ActiveCfg = Debug|Win32
+		{E83C188D-61F5-4AE6-839C-26E4ECB36E62}.Debug|x86.Build.0 = Debug|Win32
+		{E83C188D-61F5-4AE6-839C-26E4ECB36E62}.Release|x64.ActiveCfg = Release|x64
+		{E83C188D-61F5-4AE6-839C-26E4ECB36E62}.Release|x64.Build.0 = Release|x64
+		{E83C188D-61F5-4AE6-839C-26E4ECB36E62}.Release|x86.ActiveCfg = Release|Win32
+		{E83C188D-61F5-4AE6-839C-26E4ECB36E62}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4DA39F3-A7B2-4F58-AB24-4D9A19708CD9}
+	EndGlobalSection
+EndGlobal
